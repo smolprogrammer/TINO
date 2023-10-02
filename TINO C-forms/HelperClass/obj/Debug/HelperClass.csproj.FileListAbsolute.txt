@@ -1,0 +1,6 @@
+C:\Users\M06931A\source\repos\git\TINO C-Forms\HelperClass\bin\Debug\Helpers.dll
+C:\Users\M06931A\source\repos\git\TINO C-Forms\HelperClass\bin\Debug\Helpers.pdb
+C:\Users\M06931A\source\repos\git\TINO C-Forms\HelperClass\obj\Debug\HelperClass.csproj.AssemblyReference.cache
+C:\Users\M06931A\source\repos\git\TINO C-Forms\HelperClass\obj\Debug\HelperClass.csproj.CoreCompileInputs.cache
+C:\Users\M06931A\source\repos\git\TINO C-Forms\HelperClass\obj\Debug\Helpers.dll
+C:\Users\M06931A\source\repos\git\TINO C-Forms\HelperClass\obj\Debug\Helpers.pdb
