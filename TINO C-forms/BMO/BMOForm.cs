@@ -11,7 +11,6 @@ using DevExpress.XtraEditors;
 using System.ComponentModel;
 using DevExpress.XtraGrid.Views.Base;
 
-// BOM 
 namespace BMO
 {
     public partial class BMOForm : Form
@@ -685,3 +684,4 @@ namespace BMO
 
     }
 }
+
