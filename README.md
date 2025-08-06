@@ -1,7 +1,5 @@
 # TINO
-
-Windows Forms application for interactive data analysis and shop-floor reference management, developed at **Marelli Kechnec Slovakia s.r.o.**  
-Connects to SQL Server and uses DevExpress grids for fast browsing, filtering, and editing of production/reference tables.
+I designed and built TINO while working at Marelli Kechnec Slovakia s.r.o. This is a Windows Forms app for interactive data analysis and shop-floor reference management, backed by SQL Server and DevExpress grids for fast browsing, filtering, and editing of production/reference tables.
 
 ## Features
 - Multi-table browsing with saved grid layouts
